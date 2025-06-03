@@ -1,0 +1,41 @@
+export const questions = [
+    {
+        question : "Which of the following command can prevent default behaviour at in react ?",
+        option1 : "preventDefault()",
+        option2 : "avoidDefault()",
+        option3 : "stopDeault()",
+        option4 : "stopAction()",
+        ans : 1,
+    },
+    {
+        question : "What are arbitrary inputs of components in react also known as?",
+        option1 : "Elements",
+        option2 : "Props",
+        option3 : "Key",
+        option4 : "Ref",
+        ans : 2,
+    },
+    {
+        question : "What is Babel?",
+        option1 : "JS compiler",
+        option2 : "JS interpreter",
+        option3 : "JS translator",
+        option4 : "Open Source software",
+        ans :1 ,
+    },
+{
+        question : "What is ReactJS mainly used for building?",
+        option1 : "Database",
+        option2 : "Connectivity",
+        option3 : "Middleware",
+        option4 : "User Interface",
+        ans : 4,
+    },
+{
+        question : "Which company developed ReactJS?",
+        option1 : "Apple",
+        option2 : "Facebook",
+        option3 : "Instagram",
+        option4 : "X",
+        ans : 2,
+    }]
